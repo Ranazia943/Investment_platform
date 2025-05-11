@@ -1,6 +1,6 @@
- Gold Mine Investment App
+# Gold Mine Investment App
 
-A fully-featured MERN (MongoDB, Express, React, Node.js) based investment application that allows users to invest, track daily earnings, and participate in an affiliate system. This app includes both User and Admin Panels, automatic earnings calculation, plan requests, and weekly withdrawal requests. It also supports an affiliate system where users can refer others to earn commissions.
+A fully-featured **MERN** (MongoDB, Express, React, Node.js) based investment application that allows users to invest, track daily earnings, and participate in an affiliate system. This app includes both **User** and **Admin Panels**, automatic earnings calculation, plan requests, and weekly withdrawal requests. It also supports an **affiliate system** where users can refer others to earn commissions.
 
 ## 🚀 Features
 
@@ -39,15 +39,3 @@ A fully-featured MERN (MongoDB, Express, React, Node.js) based investment applic
   - `/routes` – API routes for user management, investments, and withdrawals
   - `/controllers` – Functions for handling business logic
   - `/utils` – Helper utilities, including email sending
-
-## 🛠️ How to Run Locally
-
-### Prerequisites:
-- **Node.js** and **npm** installed on your machine
-- **MongoDB** database running locally or using a cloud service like MongoDB Atlas
-
-### Steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/gold-mine-client.git
